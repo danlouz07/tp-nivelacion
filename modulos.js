@@ -10,8 +10,8 @@ header.innerHTML = `
 
 nav.innerHTML = `
   <a href="#inicio">Inicio</a>
-  <a href="#nosotros">Nosotros</a>
-  <a href="#contacto">Contacto</a>
+  <a href="#nosotros" class="link-clase">Nosotros</a>
+  <a href="#contacto" id="link-id">Contacto</a>
 `;
 
 footer.innerHTML = `
